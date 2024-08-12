@@ -1,8 +1,3 @@
-Survey of Fog Computing Environment and its Simulators
-This research paper surveys Fog Computing and its simulators. It covers:
+This repository contains a project on Fog Computing, which demonstrates how to leverage edge devices to perform data processing closer to where data is generated. This approach reduces latency, enhances security, and increases the overall efficiency of the network.
 
-Fog Computing overview
-Analysis of simulators (iFogSim, FogNetSim++, etc.)
-Comparative study of simulators
-Challenges and future directions
 
